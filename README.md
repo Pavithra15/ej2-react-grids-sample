@@ -1,4 +1,4 @@
-# ej2-react-grids-filtering
+# ej2-react-grids-sample
 
 React Filtering sample with menu filtering type.
 
